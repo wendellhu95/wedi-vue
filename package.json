@@ -1,0 +1,25 @@
+{
+  "name": "wedi-vue",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendellhu95/wedi-vue.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wendellhu95/wedi-vue/issues"
+  },
+  "homepage": "https://github.com/wendellhu95/wedi-vue#readme",
+  "dependencies": {
+    "wedi": "^0.1.0"
+  },
+  "peerDependencies": {
+    "vue": "^3.0.0-alpha.8"
+  }
+}
